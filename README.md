@@ -10,12 +10,22 @@
   Genome Sequencing Analysis of Individuals with autism can locate genes which indicate comorbidities. This can be used to identify potential health risks and     #   determine effective personalized treatment plans.
 
 # Data: 
+
+Sfari
   Gene Scoring in relation to autism:
   
   https://gene.sfari.org/database/human-gene/
-  
-  Disorders Associated with Autism and gene association:
+  SfariDisorders.xls
+  SFARIGenes.xls 
+
+BMC Genomics
+ Genes and disease association:
   
   https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-3667-9#Sec16
-
+  all_gene_disease_associations.xls
+  
+ Panther 
+  Gene List Analysis:
+  http://pantherdb.org/index.jsp
+  MappedGenesToPanther.xlsx
 
