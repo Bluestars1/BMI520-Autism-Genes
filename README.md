@@ -28,4 +28,8 @@ BMC Genomics
   Gene List Analysis:
   http://pantherdb.org/index.jsp
   MappedGenesToPanther.xlsx
+ 
+ Pathways:
+ c2.cp.kegg.v7.4.symbols.gmt.xls
+ Kegg Pathways - All
 
