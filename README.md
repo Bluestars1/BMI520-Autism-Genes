@@ -33,4 +33,7 @@ BMC Genomics
  https://www.gsea-msigdb.org/gsea/msigdb/collections.jsp
  c2.cp.kegg.v7.4.symbols.gmt.xls
  Kegg Pathways - All
+ 
+ Pathways - Data Cleaned for use
+ KeggPaths.xls
 
