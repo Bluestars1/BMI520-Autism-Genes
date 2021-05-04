@@ -24,7 +24,7 @@ BMC Genomics
   https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-3667-9#Sec16
   all_gene_disease_associations.xls
   
- Panther 
+ Panther- Did not use this but was a great sight left in for future reference 
   Gene List Analysis:
   http://pantherdb.org/index.jsp
   MappedGenesToPanther.xlsx
