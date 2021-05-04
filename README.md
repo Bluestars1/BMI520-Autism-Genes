@@ -19,12 +19,12 @@ Sfari
   SFARIGenes.xls 
 
 BMC Genomics
- Genes and disease association:
+ Genes and disorder association:
   
   https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-3667-9#Sec16
   all_gene_disease_associations.xls
   
- Panther- Did not use this but was a great sight left in for future reference 
+ Panther- Disease Association with Snps
   Gene List Analysis:
   http://pantherdb.org/index.jsp
   MappedGenesToPanther.xlsx
