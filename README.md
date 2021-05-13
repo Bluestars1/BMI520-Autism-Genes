@@ -40,3 +40,5 @@ BMC Genomics
  Pathways - Data Cleaned for use
  KeggPaths.xls
 
+# Conclusion: 
+Children with ASD should get clinical genetic testing which should be recommended by pediatricians. We have come from, "Fee for Service" to "Patient Centered Care" and are moving to "Personalized Patient Care based on Science" There is still much to learn. Getting genetic testing will help to identify how we can treat our children before symptoms develop and wiill help future generations by better understanding ASD. Each person with ASD has a uniques set of symptoms based on their gene set which are associated with pathways. Further research in this area will offer a better quality of life for our loved ones and hopefully a cure in the near future. 
