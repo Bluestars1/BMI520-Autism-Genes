@@ -10,7 +10,7 @@ This was a project I did for BMI520 We had to learn to use Collab and use the to
 
 # Hypothesis:
 
-  Genome Sequencing Analysis of Individuals with autism can locate genes which indicate comorbidities. This can be used to identify potential health risks and     #   determine effective personalized treatment plans.
+  Genome Sequencing Analysis of Individuals with autism can locate genes which indicate comorbidities. This can be used to identify potential health risks and help   to identify effective personalized treatment plans.
 
 # Data: 
 
