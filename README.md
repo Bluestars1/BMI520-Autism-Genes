@@ -1,3 +1,6 @@
+# Project BMI520: 
+This was a project I did for BMI520 We had to learn to use Collab and use the tools to analyze a topic I chose Autism I will continue to research it and expand this area as I learn more - This is a preliminary(learn how to use the tools to evaluate our hypothesis. The direct quote from Erik Holmlin PHD in the article below points out the American Academy of Pediatrics recommends children with ASD get clinical genetic testing ONLY 3% get tested. In my family we have twins with autism and it was not suggested by their pediatrician. This can help for a personalized approach to medicine and also assist with studies for further understanding of ASD. I have included my Collab notebook some of the analysis and learning of the tools available. Hope you enjoy!!!
+
 # BMI520-Autism-Genes
 
   "3% of children with an ASD diagnosis get clinical genetic testing, which is recommended by a number of professional medical organizations including the American 
