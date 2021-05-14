@@ -1,16 +1,16 @@
 # Project BMI520: 
-This was a project I did for BMI520 We had to learn to use Collab and use the tools to analyze a topic I chose Autism I will continue to research it and expand this area as I learn more - This is a preliminary(learn how to use the tools) to evaluate our hypothesis. The direct quote from Erik Holmlin PHD in the article below points out the American Academy of Pediatrics recommends children with ASD get clinical genetic testing ONLY 3% get tested. In my family we have twins with autism and it was not suggested by their pediatrician. This can help for a personalized approach to medicine and also assist with studies for further understanding of ASD. I have included my Collab notebook with the analysis and some of the learning tools available. Feel Free to Download the ppt presentation. Hope you enjoy!!!
+This was a project was for BMI520 We had to learn to use Collab and use the tools to analyze a topic. I chose Autism! I will continue to research and expand this area as I learn more - This is a preliminary (learn how to use the tools) to evaluate our hypothesis. The direct quote from Erik Holmlin PHD in the article below points out the American Academy of Pediatrics recommends children with ASD receive clinical genetic testing  while ONLY 3% actually get tested. In my family we have twins with autism and it was not suggested by their pediatrician. Austism is a personlized disorder that requires personalized treatment. Symptoms are treated as they surface and can be unique to the indiviual. Rather than treat as the symptoms surface, genetic testing can detect which genes are the cause of the individuals diagnosis which is identify the symptoms related to that gene set. The pathways associated with the gene set can also be derived. This can lead to some exciiting opportunities for cures using CRISPR technology, hopefully in the near future. Genetic testing can currently offer this personalized scientific approach while  assisting with studies for further understanding of ASD. I have included my Collab notebook with the analysis and some of the tools in python to play with. Feel Free to Download the Powerpoint presentation. Hope you enjoy!!!
 
 # BMI520-Autism-Genes
 
-  "3% of children with an ASD diagnosis get clinical genetic testing, which is recommended by a number of professional medical organizations including the American 
-  College of Medical Genetics and Genomics and the American Academy of Pediatrics!" Erik Holmlin PHD
+  Only "3% of children with an ASD diagnosis get clinical genetic testing, which is recommended by a number of professional medical organizations including the       American College of Medical Genetics and Genomics and the American Academy of Pediatrics!" Erik Holmlin PHD(see article below:
+  
   https://www.globenewswire.com/news-release/2021/01/04/2152632/0/en/Bionano-Genomics-Publishes-Study-on-Autism-Risk-Genes-After-Detailed-Analysis-of-The-Genome-of-Professor-Temple-Grandin-Who-Has-Brought-Awareness-to-Autism-Spectrum-Disorder-Throug.html
 
 
 # Hypothesis:
 
-  Genome Sequencing Analysis of Individuals with autism can locate genes which indicate comorbidities. This can be used to identify potential health risks and help   to identify effective personalized treatment plans.
+  Genome Sequencing Analysis of Individuals with autism can locate genes which indicate comorbidities. This can be used to identify potential health risks, help       identify effective personalized treatment plans and help to understand the cause to develop a cure. 
 
 # Data: 
 
